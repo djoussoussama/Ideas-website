@@ -1,5 +1,12 @@
 # README
 
+Welcome to the Ideas Saver
+
+A simple website you create a user and add ideas and save
+Using Ruby on Rails, Bootstrap , SQL 
+CRUD methods for ideas 
+other users can see the ideas But they can't edit them.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
